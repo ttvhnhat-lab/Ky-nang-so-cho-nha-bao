@@ -178,7 +178,7 @@ export const SlideDeck: React.FC<SlideDeckProps> = ({
               {/* Background Image Scrim */}
               <div className="absolute inset-0 -m-7 z-0 pointer-events-none overflow-hidden rounded-2xl">
                 <img 
-                  src="/src/assets/images/hero_ai_modern_newsroom_1794318546174.jpg" 
+                  src="/assets/aistudio/hero_ai_modern_newsroom_1794318546174.jpg" 
                   alt="Modern newsroom"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover opacity-20 filter brightness-70 scale-105"

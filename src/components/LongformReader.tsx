@@ -62,7 +62,7 @@ export const LongformReader: React.FC<LongformReaderProps> = ({
         <figure className="space-y-2">
           <div className="relative rounded-xl overflow-hidden border border-stone-300 bg-stone-900 shadow-md">
             <img 
-              src="/src/assets/images/hero_ai_modern_newsroom_1794318546174.jpg" 
+              src="/assets/aistudio/hero_ai_modern_newsroom_1794318546174.jpg" 
               alt="Hiện đại hóa tòa soạn báo chí"
               referrerPolicy="no-referrer"
               className="w-full h-auto max-h-[500px] object-cover"
