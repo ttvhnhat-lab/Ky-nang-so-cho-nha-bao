@@ -1,0 +1,6 @@
+{
+  "name": "AI Định Hình Lại Tòa Soạn Báo Chí",
+  "description": "Bản trình chiếu tương tác toàn diện về xu hướng AI định hình lại tòa soạn toàn cầu và Việt Nam, phân hóa nhân sự và chiến lược chuyển đổi số báo chí.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
